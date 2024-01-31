@@ -10,3 +10,6 @@
   3.Изучить возможности микроконтроллерной платы Arduino UNO и среды программирования Arduino
   
   4.Изучить применение среды Qt Designer для GUI проекта
+
+  
+![Снимок экрана от 2024-01-31 16-17-58](https://github.com/slumberlama/OTUS-C-2023-07-05PROJECT_ARDUINO_AUTOIRRIGATION/assets/125804013/24f59f34-d318-4d7b-9205-324e75806a7a)
