@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>Цветочек.png</file>
+        <file>flower.png</file>
+        <file>little flower.png</file>
+        <file>lflower.png</file>
+        <file>background.png</file>
+    </qresource>
+</RCC>
